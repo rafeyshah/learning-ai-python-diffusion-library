@@ -6,7 +6,7 @@ This project allows you to convert images into anime-style artworks using diffus
 
 ## Prerequisites
 
-You need to follow installation process from [here][https://huggingface.co/docs/diffusers/installation]
+You need to follow installation process from [here](https://huggingface.co/docs/diffusers/installation]
 
 ## Results
 
@@ -14,9 +14,9 @@ You need to follow installation process from [here][https://huggingface.co/docs/
 ![alt text](https://github.com/rafeyshah/learning-ai-python-diffusion-library/blob/main/input_images/1.png?raw=true)
 
 ### Generated Images
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/rafeyshah/learning-ai-python-diffusion-library/blob/main/real2anime/output.png)
+![alt text](https://github.com/rafeyshah/learning-ai-python-diffusion-library/blob/main/real2anime/output1.png)
+![alt text](https://github.com/rafeyshah/learning-ai-python-diffusion-library/blob/main/real2anime/output2.png)
+![alt text](https://github.com/rafeyshah/learning-ai-python-diffusion-library/blob/main/real2anime/output3.png)
+![alt text](https://github.com/rafeyshah/learning-ai-python-diffusion-library/blob/main/real2anime/output4.png)
+![alt text](https://github.com/rafeyshah/learning-ai-python-diffusion-library/blob/main/real2anime/output5.png)
