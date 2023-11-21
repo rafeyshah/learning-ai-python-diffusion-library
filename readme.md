@@ -6,7 +6,7 @@ This project allows you to convert images into anime-style artworks using diffus
 
 ## Prerequisites
 
-You need to follow installation process from [here](https://huggingface.co/docs/diffusers/installation]
+You need to follow installation process from [here](https://huggingface.co/docs/diffusers/installation/)
 
 ## Results
 
